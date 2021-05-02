@@ -44,9 +44,9 @@ Demo：[https://hero3706.github.io/BackToTop/](https://hero3706.github.io/BackTo
 
 介绍：原生 JavaScript 实现的瀑布流效果，兼容到 IE8。
 
-地址：[https://github.com/mqyqingfeng/waterfall](https://github.com/mqyqingfeng/waterfall)
+地址：[https://github.com/Hero3706/WaterFall](https://github.com/Hero3706/WaterFall)
 
-Demo：[https://mqyqingfeng.github.io/waterfall/](https://mqyqingfeng.github.io/waterfall/)
+Demo：[https://hero3706.github.io/WaterFall/](https://hero3706.github.io/WaterFall/)
 
 ## 说明
 
