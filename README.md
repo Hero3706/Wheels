@@ -53,7 +53,7 @@ Demo：[https://hero3706.github.io/WaterFall/](https://hero3706.github.io/WaterF
 
 介绍：原生 JavaScript 实现的瀑布流效果，兼容到 IE8。
 
-地址：[https://hero3706.github.io/StickyHead](https://hero3706.github.io/StickyHead)
+地址：[https://github.com/Hero3706/StickyHead](https://github.com/Hero3706/StickyHead)
 
 Demo：[https://hero3706.github.io/StickyHead/](https://hero3706.github.io/StickyHead/)
 
