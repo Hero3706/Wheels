@@ -30,6 +30,7 @@
 
 1. [返回顶部](#1返回顶部)
 2. [瀑布流](#2瀑布流)
+3. [固定顶部](#3固定顶部)
 
 ### 1.返回顶部
 
@@ -47,6 +48,14 @@ Demo：[https://hero3706.github.io/BackToTop/](https://hero3706.github.io/BackTo
 地址：[https://github.com/Hero3706/WaterFall](https://github.com/Hero3706/WaterFall)
 
 Demo：[https://hero3706.github.io/WaterFall/](https://hero3706.github.io/WaterFall/)
+
+### 3. 固定顶部
+
+介绍：原生 JavaScript 实现的瀑布流效果，兼容到 IE8。
+
+地址：[https://hero3706.github.io/StickyHead](https://hero3706.github.io/StickyHead)
+
+Demo：[https://hero3706.github.io/StickyHead/](https://hero3706.github.io/StickyHead/)
 
 ## 说明
 
